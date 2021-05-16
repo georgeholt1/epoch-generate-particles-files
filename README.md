@@ -46,8 +46,8 @@ end:species
 begin:particles_from_file
 
     species = electron
-    x_data = "xdata.dat"
-    w_data = "wdata.dat"
+    x_data = "x_data.dat"
+    w_data = "w_data.dat"
 
 end:particles_from_file
 ```
